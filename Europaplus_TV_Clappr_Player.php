@@ -31,7 +31,7 @@ else
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Europaplus TV Clappr Player</title>
+<title><?php echo $title; ?></title>
 <link rel="shortcut icon" href="https://kodi.al/panel.ico"/>
 <link rel="icon" href="https://kodi.al/panel.ico"/>
 <script type="text/javascript" src="clappr.min.js"></script>
